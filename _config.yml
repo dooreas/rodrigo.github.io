@@ -10,20 +10,20 @@
 ############################
 
 # Name of website
-title: My website
+title: Rodrigo Domínguez Sanz
 
 # Your name to show in the footer
-author: Some Person
+author: Rodrigo Domínguez Sanz
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  My journey: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - My LinkedIn: "https://www.linkedin.com/in/rodrigo-dom%C3%ADnguez-sanz-85b4171a8/"
+    - My Github: "https://github.com/dooreas"
   Author's home: "https://deanattali.com"
 
 ################
@@ -32,10 +32,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/rodrigo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: False
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
