@@ -101,7 +101,9 @@ Nevertheless, my favourite book is for sure *The Egyptian* by Mika Waltari.
     3. Billie Eilish  
 
 - ✈️ **Travel** ✈️: I know - who doesn't?
+  
 - 🎬 **Favorite Movie** 🎬: *Gattaca*
+  
 - 🎧 **Podcasts** 🎧: I enjoy listening to:  
   [**The LexfridmanP Podcast**](https://lexfridman.com/podcast/) - AI, USA politics, world peace & entretainment  
   [**Mas de Uno**](https://www.ondacero.es/programas/mas-de-uno/) - spanish politics & other news
