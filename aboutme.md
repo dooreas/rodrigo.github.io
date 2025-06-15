@@ -62,10 +62,10 @@ A showcase of things I’ve built, collaborated on, or am particularly proud of:
 
 - **[Agents-MCP-Hackathon - 2025]**  
   During a week and a half, we developed two solutions aimed at helping Cybersecurity Analysts with ticket triage via Agentic AI:
-  
-      **1.** [First Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgentTools): An MCP server providing tools used by the average Cybersecurity Analyst on their ticket triage workflow.
 
-      **2.** [Second Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgent): An AI Agent capable of enriching or handling cybersecurity-related tickets by leveraging tools from our MCP server.
+  **1.** [First Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgentTools): An MCP server providing tools used by the average Cybersecurity Analyst on their ticket triage workflow.
+
+  **2.** [Second Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgent): An AI Agent capable of enriching or handling cybersecurity-related tickets by leveraging tools from our MCP server.
 
 ---
 
@@ -94,12 +94,11 @@ Because there’s more to life than mathematics, commits and pull requests:
   - [Nuclear Folly: A History of the Cuban Missile Crisis. Serhii Plokhii](https://www.huri.harvard.edu/news/nuclear-folly-serhii-plokhiis-latest-book-examines-cuban-missile-crisis) - If you are interested about nuclear warfare and nonproliferation why don't you start by learning about the Cuban missile crisis.
 Nevertheless, my favourite book is for sure *The Egyptian* by Mika Waltari.
 
-- 🎶 **Music** 🎶:Which are my most heard bands/artists:
+- 🎶 **Music** 🎶: which are my most heard bands/artists:
   
     1. Muse  
     2. Nothing but Thieves  
     3. Billie Eilish  
-  I also love learning about new genres!
 
 - ✈️ **Travel** ✈️: I know - who doesn't?
 - 🎬 **Favorite Movie** 🎬: *Gattaca*
