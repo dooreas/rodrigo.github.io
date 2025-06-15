@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Journey
-subtitle: A summary of what I did
+subtitle: About me
 ---
 
 # Rodrigo's World 🌍
