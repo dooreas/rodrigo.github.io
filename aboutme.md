@@ -31,22 +31,25 @@ Here’s a quick overview of my professional path so far:
 - 🏢 **Cybersecurity Data Scientist / Machine Learning Engineer** at Siemens  
   🔍 **Specialized in:** Machine Learning & AI for Cybersecurity  
   📍 **Based in:** Madrid, Spain  
-  📅 **Period:** 2023-2025  
+  📅 **Period:** 2023-2025
 
 - 👨‍🎓 **Masters in Artificial Intelligence** at the University of Edinburgh
   🔍 **Specialized in:** Classical Machine Learning, Probabilistic Modelling, Deep Learning, Computer Vision, Algorithmic Game Theory, ...  
   📍 **Based in:** Edinburgh, United Kingdom
-  📅 **Period:** 2022-2023  
+  📅 **Period:** 2022-2023
+  🏅 **Performance:** Graduated with Honors  
 
 - 👨‍🎓 **Masters Integrated in Mathematics** at the University of Lancaster  
   🔍 **Specialized in:** Probability Theory, Algebra and Analysis  
   📍 **Based in:** Lancaster, United Kingdom  
   📅 **Period:** 2018-2022  
+  🏅 **Performance:** First & Best Mathematics Dissertation
 
 - 👨‍🎓 **School graduate** at the Retamar IB World School  
   🔍 **Specialized in:** Engineering baccaleurate  
   📍 **Based in:** Madrid, Spain  
   📅 **Period:** 2006-2018  
+  🏅 **Performance:** Study Award
   
 ---
 
@@ -71,8 +74,9 @@ A showcase of things I’ve built, collaborated on, or am particularly proud of:
 
 ## 🏆 Achievements
 
-- 🥇 Third place at the [Celebration of the Best Maths Projects in the North West 2022 - [Institute of Mathematics & Its Applications](https://ima.org.uk/)]: as the best mathematics dissertation of the University of Lancaster I was granted the oportunity to compete for the best mathematics dissertation in the North West of the United Kingdom. My dissertation was on the topic of solving the Dirichlet Problem using the stochastic process of Brownian Motion.
-- 🎯 Study Award: honorary award to celebrate excellent grades - 2018 [Retamar IB World School](https://retamar.com/)
+- 🥇 **Third place at the Celebration of the Best Maths Projects in the North West 2022 - [Institute of Mathematics & Its Applications](https://ima.org.uk/)**: as the best mathematics dissertation of the University of Lancaster I was granted the oportunity to compete for the best mathematics dissertation in the North West of the United Kingdom. My dissertation was on the topic of solving the Dirichlet Problem using the stochastic process of Brownian Motion.
+  
+- 🎯 **Study Award**: honorary award to celebrate excellent grades - 2018 [Retamar IB World School](https://retamar.com/)
 
 ---
 
