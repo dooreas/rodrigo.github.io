@@ -50,7 +50,7 @@ Here’s a quick overview of my professional path so far:
   
 ---
 
-## 🚀 Work & Projects
+## 🚀Projects & Events
 
 A showcase of things I’ve built, collaborated on, or am particularly proud of:
 
@@ -63,16 +63,16 @@ A showcase of things I’ve built, collaborated on, or am particularly proud of:
 - **[Agents-MCP-Hackathon - 2025]**  
   During a week and a half, we developed two solutions aimed at helping Cybersecurity Analysts with ticket triage via Agentic AI:
   
-  **a.** [First Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgentTools): An MCP server providing tools used by the average Cybersecurity Analyst on their ticket triage workflow.
+  **1.** [First Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgentTools): An MCP server providing tools used by the average Cybersecurity Analyst on their ticket triage workflow.
 
-  **b.** [Second Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgent): An AI Agent capable of enriching or handling cybersecurity-related tickets by leveraging tools from our MCP server.
+  **2.** [Second Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgent): An AI Agent capable of enriching or handling cybersecurity-related tickets by leveraging tools from our MCP server.
 
 ---
 
 ## 🏆 Achievements
 
 - 🥇 Third place at the [Celebration of the Best Maths Projects in the North West 2022 - [Institute of Mathematics & Its Applications](https://ima.org.uk/)]: as the best mathematics dissertation of the University of Lancaster I was granted the oportunity to compete for the best mathematics dissertation in the North West of the United Kingdom. My dissertation was on the topic of solving the Dirichlet Problem using the stochastic process of Brownian Motion.
-- 🎯 Study Award - 2018 [Retamar IB World School](https://retamar.com/)
+- 🎯 Study Award: honorary award to celebrate excellent grades - 2018 [Retamar IB World School](https://retamar.com/)
 
 ---
 
@@ -94,21 +94,19 @@ Because there’s more to life than mathematics, commits and pull requests:
   - [Nuclear Folly: A History of the Cuban Missile Crisis. Serhii Plokhii](https://www.huri.harvard.edu/news/nuclear-folly-serhii-plokhiis-latest-book-examines-cuban-missile-crisis) - If you are interested about nuclear warfare and nonproliferation why don't you start by learning about the Cuban missile crisis.
 Nevertheless, my favourite book is for sure *The Egyptian* by Mika Waltari.
 
-- 🎶 **Music** 🎶:
-
-  - MUSE
-  - Nothing but Thieves
-  - Billie Eilish
-  - I also love learning about new genres!
+- 🎶 **Music** 🎶:Which are my most heard bands/artists:
+  1. Muse  
+  2. Nothing but Thieves  
+  3. Billie Eilish  
+  I also love learning about new genres!
 
 - ✈️ **Travel** ✈️: I know - who doesn't?
 - 🎬 **Favorite Movie** 🎬: *Gattaca*
-- 🎧 **Podcasts** 🎧: I enjoy listening to:
-
-  - [The LexfridmanP Podcast](https://lexfridman.com/podcast/) - AI, USA politics, world peace & entretainment
-  - [Mas de Uno](https://www.ondacero.es/programas/mas-de-uno/) - spanish politics & other news
+- 🎧 **Podcasts** 🎧: I enjoy listening to:  
+  [**The LexfridmanP Podcast**](https://lexfridman.com/podcast/) - AI, USA politics, world peace & entretainment  
+  [**Mas de Uno**](https://www.ondacero.es/programas/mas-de-uno/) - spanish politics & other news
  
-- 🌍 **Languages** 🌍: I am bilingual in both english and spanish, and have a B2 in French! Je voudrais ameliorer mon francois dans un futur proche!
+- 🌍 **Languages** 🌍: I am bilingual in both english and spanish, and have a B2 in French!
 
 ---
 
