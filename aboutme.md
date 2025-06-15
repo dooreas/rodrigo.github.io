@@ -6,12 +6,13 @@ subtitle: About me
 
 # Rodrigo's World 🌍
 
-Welcome to my personal GitHub Page — a space where passion meets profession.  
 Here you'll find a curated journey through my **career**, **projects**, **achievements**, and the **joys of life beyond the screen**.
 
 ---
 
 ## 👨‍💻 Career
+
+### The long story
 
 I’m currently working as a Cybersecurity Data Scientist / Machine Learning Engineer at the global Cyber Defence Center of Siemens, where I focus on developing AI solutions to improve the security posture of Siemens. However, it took some time and lots of effort to become this awesome!! 💪💪 Up next, I will tell you the short version of how I arrived here.
 
@@ -23,12 +24,30 @@ Long story short, by the end of the year my best grades were in Mathematics and 
 
 By the end of 2018 I had graduated for both baccaleurates, received a Study Award and was granted a place in the Mathematics Degree of the University of Lancaster at the United Kingdom. A new journey was awaiting me!
 
+## The shorter version
+
 Here’s a quick overview of my professional path so far:
 
-- 🏢 **Cybersecurity Data Scientist / Machine Learning Engineer** at [Siemens]
-- 🔍 **Specialized in:** [Machine Learning & AI for Cybersecurity]
-- 📍 **Based in:** [Madrid, Spain]
+- 🏢 **Cybersecurity Data Scientist / Machine Learning Engineer** at Siemens
+  🔍 **Specialized in:** Machine Learning & AI for Cybersecurity
+  📍 **Based in:** Madrid, Spain
+  📅 **Period:** 2023-2025
 
+- 👨‍🎓 **Masters in Artificial Intelligence** at the University of Edinburgh
+  🔍 **Specialized in:** Classical Machine Learning, Probabilistic Modelling, Deep Learning, Computer Vision, Algorithmic Game Theory, ...
+  📍 **Based in:** Edinburgh, United Kingdom
+  📅 **Period:** 2022-2023
+
+- 👨‍🎓 **Masters Integrated in Mathematics** at the University of Lancaster
+  🔍 **Specialized in:** Probability Theory, Algebra and Analysis
+  📍 **Based in:** Lancaster, United Kingdom
+  📅 **Period:** 2018-2022
+
+- 👨‍🎓 **School graduate** at the Retamar IB World School
+  🔍 **Specialized in:** Engineering baccaleurate
+  📍 **Based in:** Madrid, Spain
+  📅 **Period:** 2006-2018
+  
 ---
 
 ## 🚀 Work & Projects
