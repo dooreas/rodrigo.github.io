@@ -12,7 +12,7 @@ Here you'll find a curated journey through my **career**, **projects**, **achiev
 
 ## 👨‍💻 Career
 
-## The shorter version
+### The shorter version
 
 Here’s a quick overview of my professional path so far:
 
