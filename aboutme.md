@@ -39,10 +39,10 @@ Here’s a quick overview of my professional path so far:
   📍 **Based in:** Madrid, Spain  
   📅 **Period:** 2023-2025
 
-- 👨‍🎓 **Masters in Artificial Intelligence** at the University of Edinburgh
+- 👨‍🎓 **Masters in Artificial Intelligence** at the University of Edinburgh  
   🔍 **Specialized in:** Classical Machine Learning, Probabilistic Modelling, Deep Learning, Computer Vision, Algorithmic Game Theory, ...  
-  📍 **Based in:** Edinburgh, United Kingdom
-  📅 **Period:** 2022-2023
+  📍 **Based in:** Edinburgh, United Kingdom  
+  📅 **Period:** 2022-2023  
   🏅 **Performance:** Graduated with Honors  
 
 - 👨‍🎓 **Masters Integrated in Mathematics** at the University of Lancaster  
