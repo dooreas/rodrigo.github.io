@@ -24,6 +24,12 @@ Long story short, by the end of the year my best grades were in Mathematics and 
 
 By the end of 2018 I had graduated for both baccaleurates, received a Study Award and was granted a place in the Mathematics Degree of the University of Lancaster at the United Kingdom. A new journey was awaiting me!
 
+My years in the United Kingdom really had an impact on me. Firstly, I discovered a world of very different people with different perspectives that I found fascinating. Actually, during my years there I shared flat with people from the United Kingdom, France, Indonesia, Malaysia, Bulgaria, Germany and Australia among others. I am particularly gratefull of this experience because it made me understand how people can be simultaneously so different and so similar, and I got the opportunity to learn so much about different cultures.
+
+Regarding my academic undergoing, I started studying mathematics at a top tier university. As a summary my years in university can be defined by a challenging beginning as I was adjusting to my new international life with a great ending story of academic success. Incidentally, my overall classification for my MSCI degree in Mathematics was that of a First Classification (the highest tier that can be achieved), and my master's dissertation ended up being selected as the best mathematics dissertation from Lancaster and, consequently, I competed with it in the Celebration of the Best Maths Projects in the North West 2022 - [Institute of Mathematics & Its Applications](https://ima.org.uk/). By the end of the competition, my dissertation on *Brownian Motion and it's application to the Dirichlet Problem* ended up as the third best dissertation of UK's north west.
+
+
+
 ## The shorter version
 
 Here’s a quick overview of my professional path so far:
