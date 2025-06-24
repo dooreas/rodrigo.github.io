@@ -21,10 +21,8 @@ author: Rodrigo Domínguez Sanz
 
 navbar-links:
   About Me:
-    Career & Expertise:  
-      - Events: "aboutme_professionaly"
-    Beyond Work: 
-      - Beyond Work: "aboutme_leisure"
+    - Career & Expertise: "aboutme_professionaly"
+    - Beyond Work: "aboutme_leisure"
   Online Presence:
     - LinkedIn Profile: "https://www.linkedin.com/in/rodrigo-dom%C3%ADnguez-sanz-85b4171a8/"
     - GitHub Portfolio: "https://github.com/dooreas"
