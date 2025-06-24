@@ -12,7 +12,7 @@ Because there’s more to life than mathematics, commits and pull requests:
 
   - I love running since young, but my freak life started in 2017 when I started running half marathons!
   
-    <img src="images/me.jpg" width="500"/>
+    ![Race in 2024](images/me.jpg)
 
   - I am a certified Advanced Open-Water Diver by PADI.
   - In 2025 I started compiting in open-water swimming races. Guess what? It is here to stay!!
