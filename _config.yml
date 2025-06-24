@@ -112,17 +112,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col:           "#0D0A16"   # Pure dark mode
-text-col:           "#F3F4F6"   # Near-white
-link-col:           "#A855F7"   # Vivid violet (quantum highlight)
-hover-col:          "#9333EA"   # Deep neon violet
-navbar-col:         "#1F172E"
-navbar-text-col:    "#FFFFFF"
-navbar-border-col:  "#3F2A5D"
-footer-col:         "#1F172E"
-footer-text-col:    "#C4B5FD"
-footer-link-col:    "#A855F7"
-footer-hover-col:   "#9333EA"
+page-col:           "#F6F7F9"   # Clean, light interface
+text-col:           "#1E293B"   # Sharp graphite
+link-col:           "#7C3AED"   # Purple intelligence
+hover-col:          "#5B21B6"   # Dark neural purple
+navbar-col:         "#E2E8F0"
+navbar-text-col:    "#1E293B"
+navbar-border-col:  "#CBD5E1"
+footer-col:         "#E2E8F0"
+footer-text-col:    "#475569"
+footer-link-col:    "#7C3AED"
+footer-hover-col:   "#5B21B6"
 
 
 # Alternatively, the navbar, footer, and page background can be set to an image
