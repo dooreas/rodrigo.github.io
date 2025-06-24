@@ -20,11 +20,12 @@ author: Rodrigo Domínguez Sanz
 ###############################################
 
 navbar-links:
-  My journey: "aboutme"
-  Resources:
+  My Journey: 
+  - My Profesional Journey: "aboutme"
+  - Leisure & Extracurricular Activities: "aboutme"
+  My links:
     - My LinkedIn: "https://www.linkedin.com/in/rodrigo-dom%C3%ADnguez-sanz-85b4171a8/"
     - My Github: "https://github.com/dooreas"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
