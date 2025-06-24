@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Joys beyond code
-subtitle: Me outside of work
+title: Beyond Work
+subtitle: The Joys beyond code
 ---
 
 ## 🎨 Life Beyond Code
