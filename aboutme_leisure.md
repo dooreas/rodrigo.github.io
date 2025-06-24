@@ -19,12 +19,14 @@ Because there’s more to life than mathematics, commits and pull requests:
   - I love climbing indoors, going to the gym, playing tenis and padel.
  
 ### 📖 **Reading** 📖:
-I love reading classics, thrillers, history and even essays! Nowadays I am mostly focused on reading about ancient and contemporary history. Some of the books I recently enjoyed:  
+I love reading classics, thrillers, history and even essays! For instance, my favourite book is *The Egyptian* by Mika Waltari. However, nowadays I am mostly focused on reading about ancient and contemporary history. Some of the books I recently enjoyed:  
 
   - [SPQR: A History of Ancient Rome. Mary Beard](https://en.wikipedia.org/wiki/SPQR:_A_History_of_Ancient_Rome) - How did Rome changed from a Kingdom to a Republic? How did it involve into an Empire?
     
   - [Nuclear Folly: A History of the Cuban Missile Crisis. Serhii Plokhii](https://www.huri.harvard.edu/news/nuclear-folly-serhii-plokhiis-latest-book-examines-cuban-missile-crisis) - If you are interested about nuclear warfare and nonproliferation why don't you start by learning about the Cuban missile crisis.
-Nevertheless, my favourite book is for sure *The Egyptian* by Mika Waltari.
+
+  - [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon](https://www.goodreads.com/book/show/18465875-countdown-to-zero-day) - Explains how was Iran's Nuclear Program delayed with Stuxnet, the first digital weapon.
+
 
 ### 🎶 **Music** 🎶:
 My most heard bands/artists:  
