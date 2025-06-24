@@ -111,17 +111,18 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#0E0E2C"
-text-col: "#E1E1E6"
-link-col: "#00FFC3"
-hover-col: "#00C2A6"
-navbar-col: "#1A1A3D"
-navbar-text-col: "#FFFFFF"
-navbar-border-col: "#2D2D5A"
-footer-col: "#1A1A3D"
-footer-text-col: "#AAAAAA"
-footer-link-col: "#FFFFFF"
-footer-hover-col: "#00FFC3"
+page-col:          "#0D1117"   # Deep black-blue
+text-col:          "#C9D1D9"   # Cool light gray
+link-col:          "#58A6FF"   # Soft electric blue
+hover-col:         "#1F6FEB"   # Deeper vibrant blue
+navbar-col:        "#161B22"   # Muted charcoal-blue
+navbar-text-col:   "#FFFFFF"   # Clean white
+navbar-border-col: "#30363D"   # Subtle steel border
+footer-col:        "#161B22"
+footer-text-col:   "#8B949E"
+footer-link-col:   "#58A6FF"
+footer-hover-col:  "#1F6FEB"
+
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
