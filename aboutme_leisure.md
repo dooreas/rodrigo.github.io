@@ -1,13 +1,7 @@
 ---
 layout: page
-title: My Journey
-subtitle: About me
----
-
-# Rodrigo's World 🌍
-
-Here you'll find a curated journey through my **joys of life beyond the screen**.
-
+title: The Joys beyond code
+subtitle: Me outside of work
 ---
 
 ## 🎨 Life Beyond Code
@@ -17,7 +11,7 @@ Because there’s more to life than mathematics, commits and pull requests:
 - 🏃 **Sport Nerd Alert** 🏃:
 
   - I love running since young, but my freak life started in 2017 when I started running half marathons! Here is a photo of my last half marathon in Ibiza:
-    <img src="images/project-thumbnail.jpg" width="500"/>
+    <img src="assets/images/me.jpg" width="500"/>
   - I am a certified Advanced Open-Water Diver by PADI.
   - In 2025 I started compiting in open-water swimming races. Guess what? It is here to stay!!
   - I love climbing indoors, going to the gym, playing tenis and padel.
