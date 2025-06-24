@@ -27,6 +27,14 @@ I love reading classics, thrillers, history and even essays! For instance, my fa
 
   - [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon](https://www.goodreads.com/book/show/18465875-countdown-to-zero-day) - Explains how was Iran's Nuclear Program delayed with Stuxnet, the first digital weapon.
 
+### 🎧 **Podcasts** 🎧: 
+I enjoy listening to:
+
+  - [**The LexfridmanP Podcast**](https://lexfridman.com/podcast/) - AI, USA politics, world peace & entretainment
+
+  - [**Mas de Uno**](https://www.ondacero.es/programas/mas-de-uno/) - spanish politics & other news
+  
+  - [**Eva Tobalina**](https://open.spotify.com/playlist/37nQKVPW0IjSKOUy58E0om) - ancient history: Rome, Egypt, Sumer, China & more. 
 
 ### 🎶 **Music** 🎶:
 My most heard bands/artists:  
@@ -38,23 +46,18 @@ My most heard bands/artists:
 ### ✈️ **Travel** ✈️:
 I know - who doesn't?
   
-### 🎬 **Favorite Movie** 🎬:  
-*Gattaca*
-  
-### 🎧 **Podcasts** 🎧: 
-I enjoy listening to:
+### 🎬 **Movie** 🎬:  
+My fabourite films:
+  - *Gattaca*
+  - 12
 
-  - [**The LexfridmanP Podcast**](https://lexfridman.com/podcast/) - AI, USA politics, world peace & entretainment
-
-  - [**Mas de Uno**](https://www.ondacero.es/programas/mas-de-uno/) - spanish politics & other news
-  
-  - [**Eva Tobalina**](https://open.spotify.com/playlist/37nQKVPW0IjSKOUy58E0om) - ancient history: Rome, Egypt, Sumer, China & more.  
  
 ### 🌍 **Languages** 🌍: 
 
   - Spanish - Native  
   - English - Native  
   - French - B2
+    
 ---
 
 ## 🎥 Videos
