@@ -4,15 +4,6 @@ title: Career & Expertise
 subtitle: My Professional Journey
 ---
 
-# 📚 Table of Contents
-
-- [📈 Career](#career)
-- [📖 The Long Story](#the-long-story)
-- [🏆 Competitions & Events](#competitions--events)
-- [🎖️ Awards](#awards)
-
----
-
 # 📈 Career
 
 <details open>
