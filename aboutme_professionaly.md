@@ -4,11 +4,11 @@ title: Career & Expertise
 subtitle: My Professional Journey
 ---
 
-## 👨‍💻 Career
+## Career
 
 Here you'll find a curated journey through my **career**, **projects** and **achievements**
 
-### The shorter version
+### Overview
 
 Here’s a quick overview of my professional path so far:
 
@@ -55,7 +55,7 @@ My years in the United Kingdom really had an impact on me. Firstly, I discovered
 
 Regarding my academic undergoing, I started studying mathematics at a top tier university. As a summary my years in university can be defined by a challenging beginning as I was adjusting to my new international life with a great ending story of academic success. Incidentally, my overall classification for my MSCI degree in Mathematics was that of a First Classification (the highest tier that can be achieved), and my master's dissertation ended up being selected as the best mathematics dissertation from Lancaster and, consequently, I competed with it in the Celebration of the Best Maths Projects in the North West 2022 - [Institute of Mathematics & Its Applications](https://ima.org.uk/). By the end of the competition, my dissertation on *Brownian Motion and it's application to the Dirichlet Problem* ended up as the third best dissertation of UK's north west.
 
-## 🚀Projects, Competitions & Events
+## Projects, Competitions & Events
 
 A showcase of things I’ve built, collaborated on, or am particularly proud of:
 
@@ -66,19 +66,22 @@ A showcase of things I’ve built, collaborated on, or am particularly proud of:
   During three days, top worldwide researchers and institutions developing AI and data driven products exposed their advances. I was able to attend to many lectures, workshops, peer-to-peer conversations and networking events!
 
 - **[Agents-MCP-Hackathon - 2025]**  
-  During a week and a half, we developed two solutions aimed at helping Cybersecurity Analysts with ticket triage via Agentic AI:
+  During a week and a half, my team developed two solutions aimed at helping Cybersecurity Analysts with ticket triage via Agentic AI:
 
   **1.** [First Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgentTools): An MCP server providing tools used by the average Cybersecurity Analyst on their ticket triage workflow.
 
   **2.** [Second Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgent): An AI Agent capable of enriching or handling cybersecurity-related tickets by leveraging tools from our MCP server.
 
+- **[AI Red Teaming Exercise @ Critical Software, Lisbon - 2025]**
+  During an entire day, my team competed at the Lisbon AI Red Teaming Exercise organized by Critical Software and was awarded second place as the second team in finding most vulnerabilities in AI systems. This offensive event had around 100 participants from start ups, top-tier companies and leaders in defence such as the Portugues Air Force.
+
 ---
 
-## 🏆 Achievements
+## Awards
 
-- 🥇 **Third place at the Celebration of the Best Maths Projects in the North West 2022 - [Institute of Mathematics & Its Applications](https://ima.org.uk/)**: as the best mathematics dissertation of the University of Lancaster I was granted the oportunity to compete for the best mathematics dissertation in the North West of the United Kingdom. My dissertation was on the topic of solving the Dirichlet Problem using the stochastic process of Brownian Motion.
+- **Third place at the Celebration of the Best Maths Projects in the North West 2022 - [Institute of Mathematics & Its Applications](https://ima.org.uk/)**: as the best mathematics dissertation of the University of Lancaster I was granted the oportunity to compete for the best mathematics dissertation in the North West of the United Kingdom. My dissertation was on the topic of solving the Dirichlet Problem using the stochastic process of Brownian Motion.
   
-- 🎯 **Study Award**: honorary award to celebrate excellent grades - 2018 [Retamar IB World School](https://retamar.com/)
+- **Study Award**: honorary award to celebrate excellent grades - 2018 [Retamar IB World School](https://retamar.com/)
 
 ---
 
