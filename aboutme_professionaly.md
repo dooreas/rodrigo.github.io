@@ -6,10 +6,7 @@ subtitle: My Professional Journey
 
 # 📈 Career
 
-<details open>
-  <summary>
-    <h3 style="margin-top: 20px; font-size: 1.5em;"> Overview</h3>
-  </summary>
+<details open><summary><h3 style="margin-top: 20px; font-size: 1.5em;"> Overview</h3></summary>
   <ul style="margin-top: 10px;">
     <li>
       <strong>Cybersecurity Data Scientist / ML Engineer</strong> @ Siemens (Madrid, 2023–2025)<br>
@@ -41,10 +38,7 @@ subtitle: My Professional Journey
   </ul>
 </details>
 
-<details>
-  <summary>
-    <h3 style="margin-top: 20px; font-size: 1.5em;"> The journey</h3>
-  </summary>
+<details><summary><h3 style="margin-top: 20px; font-size: 1.5em;"> The journey</h3></summary>
 
   I’m currently working as a Cybersecurity Data Scientist / Machine Learning Engineer at the global Cyber Defence Center of Siemens, where I focus on developing AI solutions to improve the security posture of Siemens. However, it took some time and lots of effort to get here. Up next, I will tell you the short version of how I arrived here.
 
@@ -62,10 +56,7 @@ Regarding my academic undergoing, I started studying mathematics at a top tier u
 
 </details>
 
-<details open>
-  <summary>
-    <h3 style="margin-top: 20px; font-size: 1.5em;"> Events and hackathons</h3>
-  </summary>
+<details open><summary><h3 style="margin-top: 20px; font-size: 1.5em;"> Events and hackathons</h3></summary>
   <ul style="margin-top: 10px;">
     <li>
       <strong>Neo4j & Siemens Munich Graphaton – 2025</strong><br>
@@ -91,10 +82,7 @@ Regarding my academic undergoing, I started studying mathematics at a top tier u
 </details>
 
 
-<details open>
-  <summary>
-    <h3 style="margin-top: 20px; font-size: 1.5em;">Click to view awards</h3>
-  </summary>
+<details open><summary><h3 style="margin-top: 20px; font-size: 1.5em;">Click to view awards</h3></summary>
   <ul style="margin-top: 10px;">
     <li>
       <strong>3rd Place - Best Maths Project in the North West (2022)</strong><br>
