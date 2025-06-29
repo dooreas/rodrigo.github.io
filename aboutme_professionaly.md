@@ -75,7 +75,7 @@ My years in the United Kingdom really had an impact on me. Firstly, I discovered
 
 Regarding my academic undergoing, I started studying mathematics at a top tier university. As a summary my years in university can be defined by a challenging beginning as I was adjusting to my new international life with a great ending story of academic success. Incidentally, my overall classification for my MSCI degree in Mathematics was that of a First Classification (the highest tier that can be achieved), and my master's dissertation ended up being selected as the best mathematics dissertation from Lancaster and, consequently, I competed with it in the Celebration of the Best Maths Projects in the North West 2022 - [Institute of Mathematics & Its Applications](https://ima.org.uk/). By the end of the competition, my dissertation on *Brownian Motion and it's application to the Dirichlet Problem* ended up as the third best dissertation of UK's north west.
 
-## Competitions & Events
+## Competitions & Events  
 
 - **[Neo4j&Siemens Munich Graphaton - 2025]**  
   As a participant of the Neo4j&Siemens Graphaton, I was involved in a team working in using GraphML & Data Analysis to prioritize and solve cybersecurity related events appearing in a digital twin of Siemens infrastructure.
