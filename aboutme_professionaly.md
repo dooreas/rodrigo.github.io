@@ -5,13 +5,13 @@ subtitle: My Professional Journey
 ---
 
 # Table of Contents
-
+<!-- TOC -->
 - [Career](#carrer)
   - [Overview](#overview)
   - [The Long Story](#the-long-story)
   - [Competitions & Events](#competitions-&-events)
   - [Awards](#awards)
-
+<!-- TOC -->
 
 # Career
 
