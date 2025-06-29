@@ -31,7 +31,16 @@ subtitle: My Professional Journey
     *Engineering Baccalaureate — Study Award*
 </details>
 
-
+---
+<li>
+  🎓 <strong>MSc in AI</strong> @ University of Edinburgh (2022–2023)<br>
+  <em>Graduated with Honors — focus on:</em>
+  <ul>
+    <li>Machine Learning</li>
+    <li>Deep Learning</li>
+    <li>Computer Vision</li>
+  </ul>
+</li>
 <details>
   <summary><strong>📜 Read the story of the journey</strong></summary>
 
