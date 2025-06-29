@@ -17,7 +17,6 @@ subtitle: My Professional Journey
 
 <details open>
   <summary><strong>🔹 Overview</strong></summary>
-  <ul>
     <li>🧠 <strong>Cybersecurity Data Scientist / ML Engineer</strong> @ Siemens (Madrid, 2023–2025)<br>
     <em>Machine Learning for Cybersecurity</em></li>
 
@@ -29,7 +28,6 @@ subtitle: My Professional Journey
 
     <li>🎒 <strong>School Graduate</strong> @ Retamar IB World School (2006–2018)<br>
     <em>Engineering Baccalaureate — Study Award</em></li>
-  </ul>
 </details>
 
 
