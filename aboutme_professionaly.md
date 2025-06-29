@@ -73,8 +73,6 @@ Regarding my academic undergoing, I started studying mathematics at a top tier u
 
 </details>
 
-<h2>🏆 Competitions & Events</h2>
-
 <details open>
   <summary>
     <h3 style="margin-top: 20px; font-size: 1.5em;"> Events and hackathons</h3>
@@ -104,23 +102,23 @@ Regarding my academic undergoing, I started studying mathematics at a top tier u
 </details>
 
 
----
-
-## 🎖️ Awards
-
 <details open>
-  <summary><strong>🏅 Click to view awards</strong></summary>
-
-- 🥉 **3rd Place - Best Maths Project in the North West (2022)**  
-  *Awarded by the Institute of Mathematics & Its Applications for a dissertation on Brownian Motion and the Dirichlet Problem.*
-
-- 🏫 **Study Award (2018)**  
-  *Given by Retamar IB World School for academic excellence.*
-
+  <summary>
+    <h3 style="margin-top: 20px; font-size: 1.5em;">Click to view awards</h3>
+  </summary>
+  <ul style="margin-top: 10px;">
+    <li>
+      <strong>3rd Place - Best Maths Project in the North West (2022)</strong><br>
+      Awarded by the Institute of Mathematics & Its Applications for a dissertation on Brownian Motion and the Dirichlet Problem.
+    </li>
+    <li>
+      <strong>Study Award (2018)</strong><br>
+      Given by Retamar IB World School for academic excellence.
+    </li>
+  </ul>
 </details>
 
-
-
+---
 
 
 # Table of Contents
