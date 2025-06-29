@@ -17,24 +17,24 @@ Here’s a quick overview of my professional path so far:
   **Based in:** Madrid, Spain  
   **Period:** 2023-2025
 
-- 👨‍🎓 **Masters in Artificial Intelligence** at the University of Edinburgh  
-  🔍 **Specialized in:** Classical ML & DL, Probabilistic Modelling, Computer Vision, Algorithmic Game Theory,
+- **Masters in Artificial Intelligence** at the University of Edinburgh  
+  **Specialized in:** Classical ML & DL, Probabilistic Modelling, Computer Vision, Algorithmic Game Theory,
   Introduction to Modern Cryptography and more.  
-  📍 **Based in:** Edinburgh, United Kingdom  
-  📅 **Period:** 2022-2023  
-  🏅 **Performance:** Graduated with Honors  
+  **Based in:** Edinburgh, United Kingdom  
+  **Period:** 2022-2023  
+  **Performance:** Graduated with Honors  
 
-- 👨‍🎓 **Masters Integrated in Mathematics** at the University of Lancaster  
-  🔍 **Specialized in:** Probability Theory, Algebra and Analysis  
-  📍 **Based in:** Lancaster, United Kingdom  
-  📅 **Period:** 2018-2022  
-  🏅 **Performance:** First & Best Mathematics Dissertation
+- **Masters Integrated in Mathematics** at the University of Lancaster  
+  **Specialized in:** Probability Theory, Algebra and Analysis  
+  **Based in:** Lancaster, United Kingdom  
+  **Period:** 2018-2022  
+  **Performance:** First & Best Mathematics Dissertation
 
-- 👨‍🎓 **School graduate** at the Retamar IB World School  
-  🔍 **Specialized in:** Engineering baccaleurate  
-  📍 **Based in:** Madrid, Spain  
-  📅 **Period:** 2006-2018  
-  🏅 **Performance:** Study Award
+- **School graduate** at the Retamar IB World School  
+  **Specialized in:** Engineering baccaleurate  
+  **Based in:** Madrid, Spain  
+  **Period:** 2006-2018  
+  **Performance:** Study Award
   
 ---
 
