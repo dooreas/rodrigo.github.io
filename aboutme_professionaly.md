@@ -82,7 +82,7 @@ Regarding my academic undergoing, I started studying mathematics at a top tier u
 </details>
 
 
-<details open><summary><strong>Click to view awards</strong></summary>
+<details open><summary><strong>Awards</strong></summary>
   <ul style="margin-top: 10px;">
     <li>
       <strong>3rd Place - Best Maths Project in the North West (2022)</strong><br>
