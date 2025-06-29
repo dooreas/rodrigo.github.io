@@ -16,7 +16,10 @@ subtitle: My Professional Journey
 # 📈 Career
 
 <details open>
-  <summary><strong>🔹 Overview</strong></summary>
+  <summary>
+    <h3 style="margin-top: 20px; font-size: 1.5em;">🔹 Overview</h3>
+  </summary>
+  <ul style="margin-top: 10px;">
   
   <ul>
     <li>
