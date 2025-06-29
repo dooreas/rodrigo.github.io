@@ -17,17 +17,17 @@ subtitle: My Professional Journey
 
 <details open>
   <summary><strong>🔹 Overview</strong></summary>
-    <li>🧠 <strong>Cybersecurity Data Scientist / ML Engineer</strong> @ Siemens (Madrid, 2023–2025)<br>
-    <em>Machine Learning for Cybersecurity</em></li>
+  - Cybersecurity Data Scientist / ML Engineer @ Siemens (Madrid, 2023–2025)
+    *Machine Learning for Cybersecurity*
 
-    <li>🎓 <strong>MSc in AI</strong> @ University of Edinburgh (2022–2023)<br>
-    <em>Graduated with Honors — focus on ML, DL, CV, Cryptography</em></li>
+  - MSc in AI</strong> @ University of Edinburgh (2022–2023)
+    *Graduated with Honors — focus on ML, DL, CV, Cryptography*
 
-    <li>📐 <strong>Integrated Master's in Mathematics</strong> @ Lancaster University (2018–2022)<br>
-    <em>First Class — Best Mathematics Dissertation</em></li>
+  - Integrated Master's in Mathematics @ Lancaster University (2018–2022)
+    *First Class — Best Mathematics Dissertation*
 
-    <li>🎒 <strong>School Graduate</strong> @ Retamar IB World School (2006–2018)<br>
-    <em>Engineering Baccalaureate — Study Award</em></li>
+  - School Graduate @ Retamar IB World School (2006–2018)
+    *Engineering Baccalaureate — Study Award*
 </details>
 
 
