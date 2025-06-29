@@ -20,8 +20,16 @@ Here’s a quick overview of my professional path so far:
 - **Masters in Artificial Intelligence** at the University of Edinburgh  
   **Specialized in:**
 
-    1. Classical ML & DL, Probabilistic Modelling, Computer Vision, Algorithmic Game Theory,
-  Introduction to Modern Cryptography and more.
+    1. Classical Machine Learning
+    2. Deep Learning
+    3. Probabilistic Modelling and Reasoning
+    4. Computer Vision
+    5. Algorithmic Game Theory
+    6. Introduction to Modern Cryptography
+    7. Natural Computing
+    8. Informatics Research Review
+    9. Informatics Research Proposal
+    10. Dissertation - Census-independent population estimation of Mozambique from low-resolution satellite imagery.
 
   **Based in:** Edinburgh, United Kingdom  
   **Period:** 2022-2023  
