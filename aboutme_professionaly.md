@@ -78,10 +78,8 @@ A showcase of things I’ve built, collaborated on, or am particularly proud of:
 
 - **[Agents-MCP-Hackathon - 2025]**  
   During a week and a half, my team developed two solutions aimed at helping Cybersecurity Analysts with ticket triage via Agentic AI:
-
-  **1.** [First Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgentTools): An MCP server providing tools used by the average Cybersecurity Analyst on their ticket triage workflow.
-
-  **2.** [Second Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgent): An AI Agent capable of enriching or handling cybersecurity-related tickets by leveraging tools from our MCP server.
+  * [First Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgentTools): An MCP server providing tools used by the average Cybersecurity Analyst on their ticket triage workflow.
+  * [Second Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgent): An AI Agent capable of enriching or handling cybersecurity-related tickets by leveraging tools from our MCP server.
 
 - **[AI Red Teaming Exercise @ Critical Software, Lisbon - 2025]**  
   During an entire day, my team competed at the Lisbon AI Red Teaming Exercise organized by Critical Software and was awarded second place as the second team in finding most vulnerabilities in AI systems. This offensive event had around 100 participants from start ups, top-tier companies and leaders in defence such as the Portugues Air Force.
