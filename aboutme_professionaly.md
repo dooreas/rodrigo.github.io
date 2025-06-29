@@ -140,7 +140,36 @@ Here’s a quick overview of my professional path so far:
   **Based in:** Madrid, Spain  
   **Period:** 2006-2018  
   **Performance:** Study Award
-  
+
+<ul style="margin-top: 10px;">
+    <li>
+      <strong>Cybersecurity Data Scientist / ML Engineer</strong> @ Siemens (Madrid, 2023–2025)<br>
+      <em>Machine Learning for Cybersecurity</em>
+    </li>
+    <li>
+      <strong>MSc in AI</strong> @ University of Edinburgh (2022–2023)<br>
+      <em>Graduated with Honors — focus on:</em>
+      <ul>
+        <li>Classical Machine Learning</li>
+        <li>Deep Learning</li>
+        <li>Probabilistic Modelling and Reasoning</li>
+        <li>Computer Vision</li>
+        <li>Algorithmic Game Theory</li>
+        <li>Modern Cryptography</li>
+        <li>Natural Computing</li>
+        <li>Research Methods & Dissertation</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Integrated Master's in Mathematics</strong> @ Lancaster University (2018–2022)<br>
+      <em>First Class — Best Mathematics Dissertation</em><br>
+      <em>Specialized in Probability Theory, Algebra and Analysis</em>
+    </li>
+    <li>
+      <strong>School Graduate</strong> @ Retamar IB World School (2006–2018)<br>
+      <em>Engineering Baccalaureate — Study Award</em>
+    </li>
+  </ul>
 ---
 
 ## Competitions & Events  
