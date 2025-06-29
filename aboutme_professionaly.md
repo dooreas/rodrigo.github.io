@@ -17,7 +17,7 @@ subtitle: My Professional Journey
 
 <details open>
   <summary>
-    <h3 style="margin-top: 20px; font-size: 1.5em;">🔹 Overview</h3>
+    <h3 style="margin-top: 20px; font-size: 1.5em;"> Overview</h3>
   </summary>
   <ul style="margin-top: 10px;">
   
@@ -56,7 +56,9 @@ subtitle: My Professional Journey
 ---
 
 <details>
-  <summary><strong>📜 Read the story of the journey</strong></summary>
+  <summary>
+    <h3 style="margin-top: 20px; font-size: 1.5em;"> The journey</h3>
+  </summary>
 
   I’m currently working as a Cybersecurity Data Scientist / Machine Learning Engineer at the global Cyber Defence Center of Siemens, where I focus on developing AI solutions to improve the security posture of Siemens. However, it took some time and lots of effort to get here. Up next, I will tell you the short version of how I arrived here.
 
