@@ -18,16 +18,16 @@ subtitle: My Professional Journey
 <details open>
   <summary><strong>🔹 Overview</strong></summary>
   
-  - Cybersecurity Data Scientist / ML Engineer @ Siemens (Madrid, 2023–2025)
+  - **Cybersecurity Data Scientist / ML Engineer @ Siemens (Madrid, 2023–2025)**  
     *Machine Learning for Cybersecurity*
 
-  - MSc in AI</strong> @ University of Edinburgh (2022–2023)
+  - **MSc in AI</strong> @ University of Edinburgh (2022–2023)**  
     *Graduated with Honors — focus on ML, DL, CV, Cryptography*
 
-  - Integrated Master's in Mathematics @ Lancaster University (2018–2022)
+  - **Integrated Master's in Mathematics @ Lancaster University (2018–2022)**  
     *First Class — Best Mathematics Dissertation*
 
-  - School Graduate @ Retamar IB World School (2006–2018)
+  - **School Graduate @ Retamar IB World School (2006–2018)**  
     *Engineering Baccalaureate — Study Award*
 </details>
 
@@ -59,7 +59,7 @@ Regarding my academic undergoing, I started studying mathematics at a top tier u
   <summary><strong>🎯 Click to explore events and hackathons</strong></summary>
 
 - **Neo4j & Siemens Munich Graphaton – 2025**  
-  🧩 Developed GraphML and data analysis tools to triage cybersecurity events in a digital twin.
+  🧩 Developed GraphML and data analysis tools to triage cybersecurity events in a digital twin. Second place along the competition.
 
 - **Stockholm Data Innovation Summit – 2025**  
   🌍 Attended top-tier lectures, workshops, and networking in AI & Data Science.
