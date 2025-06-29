@@ -11,8 +11,6 @@ subtitle: My Professional Journey
     <h3 style="margin-top: 20px; font-size: 1.5em;"> Overview</h3>
   </summary>
   <ul style="margin-top: 10px;">
-  
-  <ul>
     <li>
       <strong>Cybersecurity Data Scientist / ML Engineer</strong> @ Siemens (Madrid, 2023–2025)<br>
       <em>Machine Learning for Cybersecurity</em>
@@ -111,15 +109,6 @@ Regarding my academic undergoing, I started studying mathematics at a top tier u
 
 ---
 
-
-# Table of Contents
-<!-- TOC -->
-- [Career](#carrer)
-  - [Overview](#overview)
-  - [The Long Story](#the-long-story)
-  - [Competitions & Events](#competitions-&-events)
-  - [Awards](#awards)
-<!-- TOC -->
 
 # Career
 
