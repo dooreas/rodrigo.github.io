@@ -17,6 +17,7 @@ subtitle: My Professional Journey
 
 <details open>
   <summary><strong>🔹 Overview</strong></summary>
+  
   - Cybersecurity Data Scientist / ML Engineer @ Siemens (Madrid, 2023–2025)
     *Machine Learning for Cybersecurity*
 
