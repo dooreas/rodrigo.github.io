@@ -52,9 +52,6 @@ subtitle: My Professional Journey
   </ul>
 </details>
 
-
----
-
 <details>
   <summary>
     <h3 style="margin-top: 20px; font-size: 1.5em;"> The journey</h3>
@@ -76,28 +73,36 @@ Regarding my academic undergoing, I started studying mathematics at a top tier u
 
 </details>
 
----
-
-## 🏆 Competitions & Events
+<h2>🏆 Competitions & Events</h2>
 
 <details open>
-  <summary><strong>🎯 Click to explore events and hackathons</strong></summary>
-
-- **Neo4j & Siemens Munich Graphaton – 2025**  
-  🧩 Developed GraphML and data analysis tools to triage cybersecurity events in a digital twin. Second place along the competition.
-
-- **Stockholm Data Innovation Summit – 2025**  
-  🌍 Attended top-tier lectures, workshops, and networking in AI & Data Science.
-
-- **Agents-MCP Hackathon – 2025**  
-  🤖 Delivered:
-  - [🔧 First Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgentTools): MCP server for threat analyst tooling.
-  - [🧠 Second Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgent): AI Agent for triaging security-related tickets.
-
-- **AI Red Teaming @ Critical Software – Lisbon, 2025**  
-  🔐 2nd place among 100+ participants for AI vulnerability detection with startups, industry leaders and the Portuguese Air Force.
-
+  <summary>
+    <h3 style="margin-top: 20px; font-size: 1.5em;"> Events and hackathons</h3>
+  </summary>
+  <ul style="margin-top: 10px;">
+    <li>
+      <strong>Neo4j & Siemens Munich Graphaton – 2025</strong><br>
+      Developed GraphML and data analysis tools to triage cybersecurity events in a digital twin. Second place along the competition.
+    </li>
+    <li>
+      <strong>Stockholm Data Innovation Summit – 2025</strong><br>
+      Attended top-tier lectures, workshops, and networking in AI & Data Science.
+    </li>
+    <li>
+      <strong>Agents-MCP Hackathon – 2025</strong><br>
+      Delivered:
+      <ul>
+        <li><a href="https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgentTools">First Delivery</a>: MCP server for threat analyst tooling.</li>
+        <li><a href="https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgent">Second Delivery</a>: AI Agent for triaging security-related tickets.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>AI Red Teaming @ Critical Software – Lisbon, 2025</strong><br>
+      2nd place among 100+ participants for AI vulnerability detection with startups, industry leaders, and the Portuguese Air Force.
+    </li>
+  </ul>
 </details>
+
 
 ---
 
