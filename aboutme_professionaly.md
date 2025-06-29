@@ -72,7 +72,7 @@ A showcase of things I’ve built, collaborated on, or am particularly proud of:
 
   **2.** [Second Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgent): An AI Agent capable of enriching or handling cybersecurity-related tickets by leveraging tools from our MCP server.
 
-- **[AI Red Teaming Exercise @ Critical Software, Lisbon - 2025]**
+- **[AI Red Teaming Exercise @ Critical Software, Lisbon - 2025]**  
   During an entire day, my team competed at the Lisbon AI Red Teaming Exercise organized by Critical Software and was awarded second place as the second team in finding most vulnerabilities in AI systems. This offensive event had around 100 participants from start ups, top-tier companies and leaders in defence such as the Portugues Air Force.
 
 ---
