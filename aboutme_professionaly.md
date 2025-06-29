@@ -12,10 +12,10 @@ Here you'll find a curated journey through my **career**, **projects** and **ach
 
 Here’s a quick overview of my professional path so far:
 
-- 🏢 **Cybersecurity Data Scientist / Machine Learning Engineer** at Siemens  
-  🔍 **Specialized in:** Machine Learning & AI for Cybersecurity  
-  📍 **Based in:** Madrid, Spain  
-  📅 **Period:** 2023-2025
+- **Cybersecurity Data Scientist / Machine Learning Engineer** at Siemens  
+  **Specialized in:** Machine Learning & AI for Cybersecurity  
+  **Based in:** Madrid, Spain  
+  **Period:** 2023-2025
 
 - 👨‍🎓 **Masters in Artificial Intelligence** at the University of Edinburgh  
   🔍 **Specialized in:** Classical ML & DL, Probabilistic Modelling, Computer Vision, Algorithmic Game Theory,
