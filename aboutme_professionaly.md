@@ -4,6 +4,86 @@ title: Career & Expertise
 subtitle: My Professional Journey
 ---
 
+# 📚 Table of Contents
+
+- [📈 Career](#career)
+- [📖 The Long Story](#the-long-story)
+- [🏆 Competitions & Events](#competitions--events)
+- [🎖️ Awards](#awards)
+
+---
+
+# 📈 Career
+
+<details open>
+  <summary><strong>🔹 Overview</strong></summary>
+
+  - 🧠 **Cybersecurity Data Scientist / ML Engineer** @ Siemens (Madrid, 2023–2025)  
+    *Machine Learning for Cybersecurity*
+
+  - 🎓 **MSc in AI** @ University of Edinburgh (2022–2023)  
+    *Graduated with Honors — focus on ML, DL, CV, Cryptography*
+
+  - 📐 **Integrated Master's in Mathematics** @ Lancaster University (2018–2022)  
+    *First Class — Best Mathematics Dissertation*
+
+  - 🎒 **School Graduate** @ Retamar IB World School (2006–2018)  
+    *Engineering Baccalaureate — Study Award*
+</details>
+
+---
+
+## 📖 The Long Story
+
+<details>
+  <summary><strong>📜 Click to read the journey</strong></summary>
+
+  *(Keep your original long story here. You can break it into small paragraphs for better readability. Consider using emojis for milestones, and `<br>` tags if needed for line breaks inside collapsible blocks.)*
+
+</details>
+
+---
+
+## 🏆 Competitions & Events
+
+<details open>
+  <summary><strong>🎯 Click to explore events and hackathons</strong></summary>
+
+- **Neo4j & Siemens Munich Graphaton – 2025**  
+  🧩 Developed GraphML and data analysis tools to triage cybersecurity events in a digital twin.
+
+- **Stockholm Data Innovation Summit – 2025**  
+  🌍 Attended top-tier lectures, workshops, and networking in AI & Data Science.
+
+- **Agents-MCP Hackathon – 2025**  
+  🤖 Delivered:
+  - [🔧 First Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgentTools): MCP server for analyst tooling.
+  - [🧠 Second Delivery](https://huggingface.co/spaces/Agents-MCP-Hackathon/TDAgent): AI Agent for triaging tickets.
+
+- **AI Red Teaming @ Critical Software – Lisbon, 2025**  
+  🔐 2nd place among 100+ participants for AI vulnerability detection with the Portuguese Air Force.
+
+</details>
+
+---
+
+## 🎖️ Awards
+
+<details open>
+  <summary><strong>🏅 Click to view awards</strong></summary>
+
+- 🥉 **3rd Place - Best Maths Project in the North West (2022)**  
+  *Awarded by the Institute of Mathematics & Its Applications for a dissertation on Brownian Motion and the Dirichlet Problem.*
+
+- 🏫 **Study Award (2018)**  
+  *Given by Retamar IB World School for academic excellence.*
+
+</details>
+
+
+
+
+
 # Table of Contents
 <!-- TOC -->
 - [Career](#carrer)
